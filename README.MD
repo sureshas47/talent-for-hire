@@ -15,5 +15,4 @@ Please add your info to the bottom of the table in an empty row markdown format.
 | Meggan M Green | Software Engineer and SDET; Jr or Level I | Chicago, USA | Python, Flask, Rails, HTML/CSS, SQL | On-site, Remote, Relocation | email@meggan.green <br> [LinkedIn](https://linkedin.com/in/meggangreen/) |
 | Antariksh Chavan | Software Enginner (Android/Backend) | India | Kotlin, Java, Android, JavaScript, TypeScript, GraphQL, MongoDB, Docker, Kubernetes | Remote or Relocation within India | antarikshc@gmail.com <br> [LinkedIn](https://www.linkedin.com/in/antarikshc/) |
 | Karan Agrawal | Full-Stack Engineer | Mumbai, India | JavaScript, Python, React, Node, Django, React Native | Remote or Onsite | mr.karanagrawal@gmail.com <br> [Portfolio](https://www.karanagrawal.me) <br> [LinkedIn](https://www.linkedin.com/in/karan28598) |
-|         |         |             |           |           |            |
-|         |         |             |           |           |            |
+| Suresh Adhikari | Frontend Developer | Waterloo, Ontario |  JavaScript, Typescript, React, Node, PHP, Python, MongoDB, PostgreSQL, MySQL, Selenium, Jest | Remote or Onsite | adh.suresh47@gmail.com <br> [Portfolio](https://sureshadhikari47.com.np/) <br> [LinkedIn](https://www.linkedin.com/in/adhikari-suresh/)|
